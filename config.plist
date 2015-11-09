@@ -34,7 +34,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sina.DreamNew</string>
+				<string>com.sina.news</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
@@ -42,7 +42,7 @@
 				<key>subtitle</key>
 				<string>新梦</string>
 				<key>title</key>
-				<string>art</string>
+				<string>dreamNew</string>
 			</dict>
 		</dict>
 	</array>
