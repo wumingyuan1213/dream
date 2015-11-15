@@ -34,7 +34,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sina.news</string>
+				<string>com.xinmem.news</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
